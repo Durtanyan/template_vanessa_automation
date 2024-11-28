@@ -1,0 +1,1 @@
+"ДопПараметры": "/N\"${REMOTE_INFOBASE_LOGIN}\" /P\"${REMOTE_INFOBASE_PASSWORD}\" /AllowExecuteScheduledJobs -Off",
